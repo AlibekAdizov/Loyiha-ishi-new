@@ -1,2 +1,2 @@
-# Loyiha-ishi-new
-Elektron hamyon uchun ma`lumotlar bazasini yaratish
+# Elektron hamyon uchun ma`lumotlar bazasini yaratish
+Elektron hamyon - elektron pullarni saqlaydigan hamda internetdagi xaridlar va xizmatlar uchun haq to'lash, hatto pulni bank hisobvarag'iga yoki bank kartasiga o'tkazish yoki naqd pul olish imkonini beruvchi kompyuter dasturidir. O'tkazmalar bir zumda amalga oshiriladi, ko'plab elektron pullar tizimlari hisob-kitoblar va o'tkazmalarni turli valyutalarda amalga oshirish imkonini beradi.
